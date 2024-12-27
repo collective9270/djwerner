@@ -133,4 +133,4 @@ async def stop(interaction: discord.Interaction):
         await interaction.response.send_message("I'm not playing anything.")
 
 
-bot.run("MTMyMjIxMTQxNTU3ODM4MjM3Ng.GsJ7Lp.RXhvLkCVirL5mfY9RNyBmh9K6VK3wja6xSbc74")
+bot.run("zie discord channel")
